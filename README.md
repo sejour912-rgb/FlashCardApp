@@ -1,4 +1,4 @@
-![ezgif-43974a69ec9eab](https://github.com/user-attachments/assets/32fcfc6c-596b-4528-90b0-b7c8caed3a32)# Lab 1 : 
+# Lab 1 : 
 
 ## Required
 - [x] Create New Project in Android Studio
